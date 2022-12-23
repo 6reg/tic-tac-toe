@@ -2,7 +2,7 @@ dictionary=["below","down","go","going","horn","howdy","it","i","low","own","par
 
 def substrings string, dictionary
   result={} 
-  string=string.split" "
+  string=string.downcase.split" "
   dictionary.each do |word| 
     string.each do |sub| 
       if sub.include?(word) 
