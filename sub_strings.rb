@@ -14,7 +14,7 @@ def substrings string, dictionary
       end
     end
   end
-  return result
+  result
 end
 
 puts substrings "Howdy partner, sit down! How's it going?", dictionary
