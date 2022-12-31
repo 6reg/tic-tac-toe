@@ -1,3 +1,4 @@
-```Tic Tac Toe
+# Tic Tac Toe [![6reg][img]][6reg]
 
-** This Ruby library plays an interactive game of tic tac toe from the command line
+Play tic tac toe from your command line:
+`ruby main.rb`
