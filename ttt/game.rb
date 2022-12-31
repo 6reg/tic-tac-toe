@@ -87,4 +87,5 @@ class Game
       puts display_tie
     end
   end
+
 end
