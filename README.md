@@ -1,4 +1,5 @@
-# Tic Tac Toe [![6reg][img]][6reg]
+# Tic Tac Toe
 
 Play tic tac toe from your command line:
-`ruby main.rb`
+
+`$ ruby main.rb`
